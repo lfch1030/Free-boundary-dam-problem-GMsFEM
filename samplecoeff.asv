@@ -1,0 +1,8 @@
+mu=10^5;
+
+newperm1
+ k1perm=k'; % transpose of generated matrix.
+x=linspae8
+coef=coeficient(x,y,mu,k1perm); % due to some previous experiments 
+% i need to pass mu as argument, this is no longer necesary but matlab 
+% code still requires this
